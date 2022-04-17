@@ -1,4 +1,4 @@
-#include <stdio.h> //Here I declared the standard input output header file i.e preprocessor
+#include <stdio.h> //Here we declared the standard input output header file i.e preprocessor
 
 int main()
 {
